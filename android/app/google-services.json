@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "226979865685",
+    "firebase_url": "https://analise-9d8dc.firebaseio.com",
+    "project_id": "analise-9d8dc",
+    "storage_bucket": "analise-9d8dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226979865685:android:265af74032d0344b",
+        "android_client_info": {
+          "package_name": "in.thetaztechnology.analisetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226979865685-q8920f3osiiu2d42o2akkr709ks6mo57.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "226979865685-q8920f3osiiu2d42o2akkr709ks6mo57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8MtySizPO21wQ33yalzztwpuQxbItUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
